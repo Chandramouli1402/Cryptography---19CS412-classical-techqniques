@@ -345,6 +345,8 @@ return 0;
 ```
 
 OUTPUT :
+
+
 ![WhatsApp Image 2024-02-29 at 21 47 26_39ca042b](https://github.com/Chandramouli1402/Cryptography---19CS412-classical-techqniques/assets/113716783/a63ba543-9727-4fb0-8dd8-7c94c6cce37c)
 
 
