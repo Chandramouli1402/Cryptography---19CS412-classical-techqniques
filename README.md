@@ -78,6 +78,7 @@ return 0;
 OUTPUT :
 
 
+![WhatsApp Image 2024-02-29 at 21 47 06_557e08b3](https://github.com/Chandramouli1402/Cryptography---19CS412-classical-techqniques/assets/113716783/484a1ffa-ce4f-4e43-ac03-aba22a3419eb)
 
 
 RESULT : 
@@ -254,6 +255,7 @@ return 0;
 
 OUTPUT :
 
+![WhatsApp Image 2024-02-29 at 21 47 14_c2619e4e](https://github.com/Chandramouli1402/Cryptography---19CS412-classical-techqniques/assets/113716783/011cd1c3-8436-478b-a75d-6ca8a405cf2c)
 
 
 
@@ -343,6 +345,7 @@ return 0;
 ```
 
 OUTPUT :
+![WhatsApp Image 2024-02-29 at 21 47 26_39ca042b](https://github.com/Chandramouli1402/Cryptography---19CS412-classical-techqniques/assets/113716783/a63ba543-9727-4fb0-8dd8-7c94c6cce37c)
 
 
 
@@ -471,6 +474,7 @@ return 0;
 ```
 
 OUTPUT :
+![WhatsApp Image 2024-02-29 at 21 50 45_0f779dcd](https://github.com/Chandramouli1402/Cryptography---19CS412-classical-techqniques/assets/113716783/7940ccd0-c9aa-42c5-8cbe-ef6c48fe410c)
 
 
 
@@ -569,6 +573,7 @@ return 0;
 
 OUTPUT :
 
+![WhatsApp Image 2024-02-29 at 21 50 58_5f007dde](https://github.com/Chandramouli1402/Cryptography---19CS412-classical-techqniques/assets/113716783/d647a22d-c703-47c6-8d66-8069de523bfb)
 
 
 
