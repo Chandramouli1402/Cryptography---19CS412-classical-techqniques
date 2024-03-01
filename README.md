@@ -347,7 +347,8 @@ return 0;
 OUTPUT :
 
 
-![WhatsApp Image 2024-03-01 at 13 22 51_c161ab50](https://github.com/Chandramouli1402/Cryptography---19CS412-classical-techqniques/assets/113716783/fed3c961-ae33-45b6-ab36-d8f3b91a11af)
+![WhatsApp Image 2024-03-01 at 13 31 10_2bfe73c0](https://github.com/Chandramouli1402/Cryptography---19CS412-classical-techqniques/assets/113716783/c4d864f0-1896-4da4-bd2b-2b13ece819dc)
+![WhatsApp Image 2024-03-01 at 13 34 13_0487f179](https://github.com/Chandramouli1402/Cryptography---19CS412-classical-techqniques/assets/113716783/23d67f5b-f24f-4875-ac1f-1007ee437ca6)
 
 
 
